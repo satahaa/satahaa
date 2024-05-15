@@ -1,4 +1,4 @@
 - 👋 Hi, i'm SA Tahaa.
-- 👀 System Engineering, Data Engineering and Analytics, Networking and ML.
-- 🌱 C , C++, JavaScript, Python.
+- 👀 Aspiring System Engineer, Network Security Specialist and AI Engineer.
+- 🌱 C , C++, Python.
 - 📫 Contact me through my email.
