@@ -1,4 +1,5 @@
-- 👋 Hi, i'm SA Tahaa.
-- 👀 Aspiring System Engineer, Network Security Specialist and AI Engineer.
+- 👋 Hi, i'm Tahaa.
+- CS Undergrad
+- 👀 Aspiring Computer Architect | Systems Engineering | Network Engineering | DevOps
 - 🌱 C , C++, Python.
 - 📫 Contact me through my email.
